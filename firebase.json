@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "ralph-potfolio",
+    "public": "public",
     "ignore": [
       "firebase.json",
       "**/.*",
